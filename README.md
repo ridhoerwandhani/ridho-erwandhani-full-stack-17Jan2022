@@ -10,14 +10,16 @@ Users can choose a restaurant based on arrival time. Users can also add restaura
 
 Preview
 
-#Home
 ![alt text](https://test.pods.id/static/home.png)
 
-#List & Search Restaurant
-![alt text](https://test.pods.id/static/home.png)
 
-#Collection
-![alt text](https://test.pods.id/static/home.png)
+
+
+![alt text](https://test.pods.id/static/list.png)
+
+
+
+![alt text](https://test.pods.id/static/collection.png)
 
 
 Demo app : https://test.pods.id
